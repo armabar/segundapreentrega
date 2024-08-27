@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Big Deniro",
+        "price": 11200,
+        "stock": 10,
+        "image": "assets/img/icon_bigdeniro.png",
+        "category": "Clasicas",
+        "description": "Doble hamburguesa, doble cheddar, pepinos y cebolla"
+    },
+    {
+        "id": 2,
+        "name": "Caprichosa",
+        "price": 10000,
+        "stock": 20,
+        "image": "assets/img/icon_caprichosa.png",
+        "category": "Especiales",
+        "description": "Doble hamburguesa, doble cheddar, doble panceta y cebolla caramelizada"
+    },
+    {
+        "id": 3,
+        "name": "Gringa",
+        "price": 9000,
+        "stock": 37,
+        "image": "assets/img/icon_gringa.png",
+        "category": "Nuevas",
+        "description": "Queso cheddar, panceta ahumada, pepinos y ketchup"
+    },
+    {
+        "id": 4,
+        "name": "Pampernic",
+        "price": 14000,
+        "stock": 59,
+        "image": "assets/img/icon_pampernic.png",
+        "category": "Clasicas",
+        "description": "Queso dambo, tomate, lechuga capuchina, pepinos, cebolla y mostaza"
+    },
+    {
+        "id": 5,
+        "name": "Parrillera",
+        "price": 7000,
+        "stock": 12,
+        "image": "assets/img/icon_parrillera.png",
+        "category": "Especiales",
+        "description": "Queso provoleta con chimichurri, morcilla, morron a la plancha, cebolla y ketchup"
+    }
+]
